@@ -118,8 +118,3 @@ El juego está diseñado para funcionar de manera autónoma sin necesidad de man
 ## Licencia y Uso
 
 Este videojuego educativo ha sido desarrollado específicamente para uso educativo en el área de emprendimientos. Puede ser utilizado libremente en contextos educativos.
-
----
-
-**Desarrollado con tecnologías web modernas y optimizado para la mejor experiencia de usuario en todos los dispositivos.**
-
